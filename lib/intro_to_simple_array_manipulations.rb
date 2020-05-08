@@ -6,17 +6,3 @@ end
 #  array.unshift (string)
 #end
 
-def
-end
-
-def
-end
-
-def
-end
-
-def
-end
-
-def
-end
